@@ -4,6 +4,7 @@ Docker中包括三个基本概念：
 * 镜像（Image)  
 * 容器（Container)
 * 仓库（Repository)  
+
 理解好这三个概念，就可以了解Docker的整个生命周期。
 
 镜像：  
